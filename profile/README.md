@@ -11,4 +11,4 @@
 
 <h3 align="center">We create puzzles, we reveal puzzles</h3>
 
-<h4 align="center">Official site: <a href="https://theteamfuture.github.io">https://theteamfuture.github.io</a></h4>
+<h4 align="center">Official site: <a href="https://theteamfuture.org">https://theteamfuture.org</a></h4>
